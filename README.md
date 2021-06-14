@@ -1,4 +1,4 @@
-# webpack-basics
+# React-practice
 
 a template for making a bare-bones webpack react app. 
 
